@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../LetsEngineer/curriculum"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1-1"
+	}
+}
